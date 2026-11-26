@@ -1,5 +1,14 @@
 # Component library working guide
 
+## Shared working agreement
+
+Follow [WORKING-AGREEMENT.md](WORKING-AGREEMENT.md) for scope,
+improvement batches, release freezes, and testing before upload.
+
+Only its adopted rules are mandatory. Proposed refinements
+require the owner's agreement. If release instructions conflict,
+the adopted working-agreement rules take precedence.
+
 ## This repository: shopify-components
 Part of the Goodform Shopify Library (GitHub organization `goodformco`):
 
